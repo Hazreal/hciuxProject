@@ -1,7 +1,7 @@
 ﻿$axure.loadCurrentPage(
 (function() {
     var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
-    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,[j],k,_(l,m,n,o,p,q,r,_(),s,_(t,u,v,w,x,_(y,z,A,B),C,null,D,w,E,w,F,G,H,null,I,J,K,L,M,N,O,J),P,_(),Q,_(),R,_(S,[])),T,_(),U,_());}; 
-var b="url",c="page_3.html",d="generationDate",e=new Date(1488928550957.93),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="variables",j="OnLoadVariable",k="page",l="packageId",m="1f8635b5f81544c79d2150749d18620c",n="type",o="Axure:Page",p="name",q="Page 3",r="notes",s="style",t="baseStyle",u="627587b6038d43cca051c114ac41ad32",v="pageAlignment",w="near",x="fill",y="fillType",z="solid",A="color",B=0xFFFFFFFF,C="image",D="imageHorizontalAlignment",E="imageVerticalAlignment",F="imageRepeat",G="auto",H="favicon",I="sketchFactor",J="0",K="colorStyle",L="appliedColor",M="fontName",N="Applied Font",O="borderWidth",P="adaptiveStyles",Q="interactionMap",R="diagram",S="objects",T="masters",U="objectPaths";
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,[j],k,_(l,m,n,o,p,q,r,_(s,t,u,v,w,_(x,y,z,A),B,null,C,v,D,v,E,F,G,null,H,I,J,K,L,M,N,I),O,_(),P,_(),Q,_(R,[])),S,_(),T,_());}; 
+var b="url",c="page_3.html",d="generationDate",e=new Date(1488928793953.4),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="variables",j="OnLoadVariable",k="page",l="packageId",m="1f8635b5f81544c79d2150749d18620c",n="type",o="Axure:Page",p="name",q="Page 3",r="style",s="baseStyle",t="627587b6038d43cca051c114ac41ad32",u="pageAlignment",v="near",w="fill",x="fillType",y="solid",z="color",A=0xFFFFFFFF,B="image",C="imageHorizontalAlignment",D="imageVerticalAlignment",E="imageRepeat",F="auto",G="favicon",H="sketchFactor",I="0",J="colorStyle",K="appliedColor",L="fontName",M="Applied Font",N="borderWidth",O="adaptiveStyles",P="interactionMap",Q="diagram",R="objects",S="masters",T="objectPaths";
 return _creator();
 })());
