@@ -1,2 +1,5 @@
-# This is the repository for CIS-489 HCI/UX project
+### This is the repository for CIS-489 HCI/UX project
 It is made using Axure, a prototyping software and is kept here for posterity and access to all group members who participated in the project.
+
+The page is hosted here:
+https://hazreal.github.io/hciuxProject/
